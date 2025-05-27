@@ -1,2 +1,2 @@
 # Python
-Position Accuracy calculate in stationary and dynamic for GNSS receiver
+code file for GNSS reciever
